@@ -1,4 +1,4 @@
-# Technical Architecture Questions
+# Technical Assessment Questions
 
 ## Architecture
 - Do you have an architecture diagram?
