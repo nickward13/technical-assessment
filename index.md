@@ -34,6 +34,8 @@ The following questions can be used to drive the discussion and ensure a good ov
 - What methodology is used - agile? Waterfall?
 - How is the team structured?
 - How is the backlog managed?
+- How do you define your development roadmap? User stories?
+- How active are end customers in defining features via feedback?
 
 # Identity
 - How is identity managed?  Is an external service used, or built in-house?
