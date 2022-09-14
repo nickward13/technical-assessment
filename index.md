@@ -29,6 +29,7 @@ The following questions can be used to drive the discussion and ensure a good ov
 - How many customers use the app?  What percentage of those customers are on Azure?
 - Is the app deployed in the customer's or the ISV's own subscription?
 - Are CI/CD processes implemented?  What tooling is used?
+- How are environments and infrastructure deployed and maintained? What IAC tool do you use? ARM, BICEP, Terraform, etc?
 
 # Work processes
 - What methodology is used - agile? Waterfall?
