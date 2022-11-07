@@ -6,7 +6,7 @@
 - [PaaS web app with DB](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app) - basic PaaS architecture
   - [Highly available multi region web app](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
   - [Network hardened web app](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/security/hardened-web-app)
-
+- [Serverless web app](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/web-app) - basic serverless architecture
 ## IaaS
 - [IaaS web app with DB](https://learn.microsoft.com/en-us/azure/architecture/high-availability/ref-arch-iaas-web-and-db) - basic IaaS architecture
 
