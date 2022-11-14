@@ -51,6 +51,7 @@ The following questions can be used to drive the discussion and ensure a good ov
 - Is a SIEM used, such as Azure Sentinel?
 
 # Availability
+- Do you have an Incident Response Plan?  Can you provide it to me?
 - How is high availability managed?
 - How is the system backed up?
 - Is there a DR environment? How is it managed? Is it in a remote region?
